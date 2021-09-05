@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Taxoupas
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
