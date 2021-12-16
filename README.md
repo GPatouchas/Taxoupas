@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Taxoupas
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++
+- @GiannisPatouchas 📷
+- Interested in software developmnet and web development 💻
+- Simple knowledge of C++ , Java , Python and Html 
